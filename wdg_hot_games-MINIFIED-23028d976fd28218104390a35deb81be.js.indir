@@ -1,0 +1,2 @@
+SpilGames({name:"wdg_hot_games"},["SWP","ThumbnailTracker"],function(a,b){a.init("hot_games");a=window.document.getElementById("wdg_hot_games");b.track(a)});
+//# sourceMappingURL=wdg_hot_games-MINIFIED-23028d976fd28218104390a35deb81be.js.map
